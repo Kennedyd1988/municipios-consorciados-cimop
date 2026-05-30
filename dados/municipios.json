@@ -1,0 +1,261 @@
+[
+  {
+    "municipio": "Água Nova",
+    "lei": "270/2022",
+    "dataSancao": "09/10/2022",
+    "dataPublicacao": "10/08/2022",
+    "pdf": ""
+  },
+  {
+    "municipio": "Alexandria",
+    "lei": "1288/2024",
+    "dataSancao": "25/06/2024",
+    "dataPublicacao": "26/06/2024",
+    "pdf": "leis-ratificadoras/alexandria.pdf"
+  },
+  {
+    "municipio": "Almino Afonso",
+    "lei": "548/2022",
+    "dataSancao": "14/06/2022",
+    "dataPublicacao": "15/06/2022",
+    "pdf": "leis-ratificadoras/almino-afonso.pdf"
+  },
+  {
+    "municipio": "Antonio Martins",
+    "lei": "608/2025",
+    "dataSancao": "30/01/2025",
+    "dataPublicacao": "",
+    "pdf": "leis-ratificadoras/antonio-martins.pdf"
+  },
+  {
+    "municipio": "Apodi",
+    "lei": "1999/2023",
+    "dataSancao": "26/05/2023",
+    "dataPublicacao": "29/05/2023",
+    "pdf": "leis-ratificadoras/apodi.pdf"
+  },
+  {
+    "municipio": "Caraúbas",
+    "lei": "1425/2023",
+    "dataSancao": "01/12/2023",
+    "dataPublicacao": "04/12/2023",
+    "pdf": "leis-ratificadoras/caraubas.pdf"
+  },
+  {
+    "municipio": "Coronel João Pessoa",
+    "lei": "099/2021",
+    "dataSancao": "10/12/2021",
+    "dataPublicacao": "13/12/2021",
+    "pdf": ""
+  },
+  {
+    "municipio": "Encanto",
+    "lei": "565/2021",
+    "dataSancao": "18/11/2021",
+    "dataPublicacao": "22/11/2021",
+    "pdf": "leis-ratificadoras/encanto.pdf"
+  },
+  {
+    "municipio": "Felipe Guerra",
+    "lei": "596/2025",
+    "dataSancao": "09/04/2025",
+    "dataPublicacao": "",
+    "pdf": "leis-ratificadoras/felipe-guerra.pdf"
+  },
+  {
+    "municipio": "Francisco Dantas",
+    "lei": "162/2023",
+    "dataSancao": "23/11/2023",
+    "dataPublicacao": "23/11/2023",
+    "pdf": "leis-ratificadoras/francisco-dantas.pdf"
+  },
+  {
+    "municipio": "Frutuoso Gomes",
+    "lei": "900/2024",
+    "dataSancao": "29/04/2024",
+    "dataPublicacao": "30/04/2024",
+    "pdf": "leis-ratificadoras/frutuoso-gomes.pdf"
+  },
+  {
+    "municipio": "Itaú",
+    "lei": "657/2024",
+    "dataSancao": "10/09/2024",
+    "dataPublicacao": "11/09/2024",
+    "pdf": "leis-ratificadoras/itau.pdf"
+  },
+  {
+    "municipio": "Janduís",
+    "lei": "672/2023",
+    "dataSancao": "05/12/2023",
+    "dataPublicacao": "07/12/2023",
+    "pdf": "leis-ratificadoras/janduis.pdf"
+  },
+  {
+    "municipio": "José da Penha",
+    "lei": "443/2022",
+    "dataSancao": "13/05/2022",
+    "dataPublicacao": "16/05/2022",
+    "pdf": ""
+  },
+  {
+    "municipio": "Lucrécia",
+    "lei": "719/2022",
+    "dataSancao": "12/04/2022",
+    "dataPublicacao": "13/04/2022",
+    "pdf": "leis-ratificadoras/lucrecia.pdf"
+  },
+  {
+    "municipio": "Luis Gomes",
+    "lei": "560/2022",
+    "dataSancao": "31/08/2022",
+    "dataPublicacao": "31/08/2022",
+    "pdf": "leis-ratificadoras/luis-gomes.pdf"
+  },
+  {
+    "municipio": "Major Sales",
+    "lei": "498/2022",
+    "dataSancao": "01/12/2022",
+    "dataPublicacao": "01/12/2022",
+    "pdf": "leis-ratificadoras/major-sales.pdf"
+  },
+  {
+    "municipio": "Marcelino Vieira",
+    "lei": "386/2022",
+    "dataSancao": "20/12/2022",
+    "dataPublicacao": "21/12/2022",
+    "pdf": "leis-ratificadoras/marcelino-vieira.pdf"
+  },
+  {
+    "municipio": "Martins",
+    "lei": "721/2022",
+    "dataSancao": "20/05/2022",
+    "dataPublicacao": "20/05/2022",
+    "pdf": "leis-ratificadoras/martins.pdf"
+  },
+  {
+    "municipio": "Messias Targino",
+    "lei": "670/2022",
+    "dataSancao": "06/06/2022",
+    "dataPublicacao": "07/06/2022",
+    "pdf": "leis-ratificadoras/messias-targino.pdf"
+  },
+  {
+    "municipio": "Olho D'água do Borges",
+    "lei": "677/2022",
+    "dataSancao": "10/06/2022",
+    "dataPublicacao": "13/06/2022",
+    "pdf": "leis-ratificadoras/olho-d-agua-do-borges.pdf"
+  },
+  {
+    "municipio": "Paraná",
+    "lei": "447/2021",
+    "dataSancao": "01/12/2021",
+    "dataPublicacao": "02/12/2021",
+    "pdf": "leis-ratificadoras/parana.pdf"
+  },
+  {
+    "municipio": "Pau dos Ferros",
+    "lei": "1828/2022",
+    "dataSancao": "25/01/2022",
+    "dataPublicacao": "25/01/2022",
+    "pdf": "leis-ratificadoras/pau-dos-ferros.pdf"
+  },
+  {
+    "municipio": "Portalegre",
+    "lei": "489/2021",
+    "dataSancao": "22/11/2021",
+    "dataPublicacao": "24/11/2021",
+    "pdf": "leis-ratificadoras/portalegre.pdf"
+  },
+  {
+    "municipio": "Rafael Fernandes",
+    "lei": "002/2024",
+    "dataSancao": "05/04/2023",
+    "dataPublicacao": "08/04/2024",
+    "pdf": "leis-ratificadoras/rafael-fernandes.pdf"
+  },
+  {
+    "municipio": "Rafael Godeiro",
+    "lei": "410/2022",
+    "dataSancao": "17/05/2022",
+    "dataPublicacao": "18/05/2022",
+    "pdf": "leis-ratificadoras/rafael-godeiro.pdf"
+  },
+  {
+    "municipio": "Riacho da Cruz",
+    "lei": "472/2022",
+    "dataSancao": "11/04/2022",
+    "dataPublicacao": "12/04/2022",
+    "pdf": "leis-ratificadoras/riacho-da-cruz.pdf"
+  },
+  {
+    "municipio": "Riacho de Santana",
+    "lei": "384/2023",
+    "dataSancao": "30/10/2023",
+    "dataPublicacao": "07/11/2023",
+    "pdf": "leis-ratificadoras/riacho-de-santana.pdf"
+  },
+  {
+    "municipio": "Rodolfo Fernandes",
+    "lei": "826/2023",
+    "dataSancao": "23/01/2023",
+    "dataPublicacao": "24/01/2023",
+    "pdf": "leis-ratificadoras/rodolfo-fernandes.pdf"
+  },
+  {
+    "municipio": "São Francisco do Oeste",
+    "lei": "294/2021",
+    "dataSancao": "17/11/2021",
+    "dataPublicacao": "18/11/2021",
+    "pdf": "leis-ratificadoras/sao-francisco-do-oeste.pdf"
+  },
+  {
+    "municipio": "São Miguel",
+    "lei": "1067/2024",
+    "dataSancao": "04/07/2024",
+    "dataPublicacao": "05/07/2024",
+    "pdf": "leis-ratificadoras/sao-miguel.pdf"
+  },
+  {
+    "municipio": "Serrinha dos Pintos",
+    "lei": "469/2022",
+    "dataSancao": "23/06/2022",
+    "dataPublicacao": "02/09/2022",
+    "pdf": "leis-ratificadoras/serrinha-dos-pintos.pdf"
+  },
+  {
+    "municipio": "Severiano Melo",
+    "lei": "762/2024",
+    "dataSancao": "16/12/2024",
+    "dataPublicacao": "17/12/2024",
+    "pdf": "leis-ratificadoras/severiano-melo.pdf"
+  },
+  {
+    "municipio": "Taboleiro Grande",
+    "lei": "438/2022",
+    "dataSancao": "27/05/2022",
+    "dataPublicacao": "27/05/2022",
+    "pdf": "leis-ratificadoras/taboleiro-grande.pdf"
+  },
+  {
+    "municipio": "Umarizal",
+    "lei": "876/2024",
+    "dataSancao": "09/04/2024",
+    "dataPublicacao": "10/04/2024",
+    "pdf": "leis-ratificadoras/umarizal.pdf"
+  },
+  {
+    "municipio": "Venha Ver",
+    "lei": "385/2023",
+    "dataSancao": "17/03/2023",
+    "dataPublicacao": "29/03/2023",
+    "pdf": "leis-ratificadoras/venha-ver.pdf"
+  },
+  {
+    "municipio": "Viçosa",
+    "lei": "296/2021",
+    "dataSancao": "05/11/2021",
+    "dataPublicacao": "11/11/2021",
+    "pdf": "leis-ratificadoras/vicosa.pdf"
+  }
+]
